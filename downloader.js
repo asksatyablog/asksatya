@@ -31,9 +31,9 @@ setDiv = function(videos){
 	// html = html + "<iframe src='https://yepdigital.adk2.co/yepdigital/scripts/direct/direct.html?a=61881795&secure=true&size=468x60&ci=1&serverdomain=ads.adservhere.com&context=c62081709' height='60' width='468' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'></iframe>";
 	// html = html + '</div>';
 	html = html + '<div style="padding: 5px;">';
-	html = html + 'By <a href="http://www.downloadyoutubechrome.com/">Download Youtube Chrome</a> version 2.0 (<a href="http://www.downloadyoutubechrome.com/latest-version.php">Check New Version</a>)';
-	html = html + ' | <a href="http://www.downloadyoutubechrome.com/feedback.php">Feedback</a>';
-	html = html + ' | <a href="https://eltima.cleverbridge.com/389/uurl-o2pt0a1798" target="_blank">Download Elmedia Player</a>';
+	html = html + 'By <a href="http://www.asksatya.com/">Download Youtube Video</a> version 5.0.1 (<a href="http://www.asksatya.com">Check New Version</a>)';
+	html = html + ' | <a href="http://www.hindishare.in/contact">Feedback</a>';
+	html = html + ' | <a href="www.hindishare.in" target="_blank">Get Success</a>';
 	html = html + '</div>';
 	html = html + '</div>';
 	var wpDiv = document.getElementById('watch7-content');
@@ -162,7 +162,7 @@ if(window.history && history.pushState){
 }
 // ga tracking
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-28955501-2']);
+_gaq.push(['_setAccount', 'UA-67414996-1']);
 _gaq.push(['_setDomainName', 'youtube.com']);
 (function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
